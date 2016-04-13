@@ -1,0 +1,3 @@
+src/app/code/community/Ambimax/DisableMediaRemoval      app/code/community/Ambimax/DisableMediaRemoval
+src/app/etc/modules/Ambimax_DisableMediaRemoval.xml     app/etc/modules/Ambimax_DisableMediaRemoval.xml
+src/app/locale/de_DE/Ambimax_DisableMediaRemoval.csv    app/locale/de_DE/Ambimax_DisableMediaRemoval.csv
