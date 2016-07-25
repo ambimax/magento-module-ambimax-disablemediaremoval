@@ -17,12 +17,6 @@ For installation use composer or copy files manually.
 
 ### composer
 ```
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/ambimax/magento-module-ambimax-disablemediaremoval"
-    }
-],
 "require": {
     "ambimax/magento-module-ambimax-disablemediaremoval": "~1.0"
 }
@@ -30,8 +24,8 @@ For installation use composer or copy files manually.
 
 ## License
 
-MIT / BSD
+[MIT License](http://choosealicense.com/licenses/mit/)
 
 ## Author Information
 
- - Tobias Schifftner, [@tschifftner](https://twitter.com/tschifftner)
+ - [Tobias Schifftner](https://twitter.com/tschifftner), [ambimax® GmbH](https://www.ambimax.de)
